@@ -4,7 +4,7 @@ metadata:
   name: redis
   namespace: cluster-config
 spec:
-  targetNamespace: redis
+  targetNamespace: redis2
   releaseName: redis
   chart:
     spec:
