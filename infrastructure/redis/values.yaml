@@ -7,7 +7,7 @@ master:
   persistence:
     enabled: false
 replica:
-  replicaCount: 3
+  replicaCount: 1
 
 volumePermissions:
   enabled: true
